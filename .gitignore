@@ -1,0 +1,16 @@
+*.class
+*.log
+.idea/
+.vscode/
+out/
+bin/
+
+//*.class → ignore compiled Java files
+
+//.idea/ → ignore IntelliJ IDEA project files
+
+//.vscode/ → ignore VS Code settings
+
+//out/ or bin/ → ignore compiled output folders
+
+//*.log → ignore log files
