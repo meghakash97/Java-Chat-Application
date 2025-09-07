@@ -1,0 +1,14 @@
+Java Chat Application - Project Report
+--------------------------------------
+Generated on: 2025-09-08 02:26:54
+GitHub Repository: https://github.com/meghakash97/Java-Chat-Application
+
+1. Project Title: Java Chat Application
+2. Objective: Real-time peer-to-peer chat system with GUI.
+3. Tools & Technologies: Java 21, JavaFX 21, Sockets, Threads
+4. Features: Group & Private messaging, Nicknames, Connection logs, GUI.
+5. Architecture: Server handles clients using threads; Client has JavaFX GUI.
+6. Screenshots: Include screenshots of server console & client GUI.
+7. How to Run: Compile & run server, then client using JavaFX modules.
+8. Conclusion / Learnings: Learned Java sockets, JavaFX GUI, multithreading, messaging.
+--------------------------------------
